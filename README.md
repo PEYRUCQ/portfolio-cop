@@ -14,3 +14,6 @@ Tables utilisées : `profiles` (`user_id`, `display_name`, `role`, `promotion`),
 - Tester le compte référente, les comptes A3/A4, les sauvegardes, les autorisations et les erreurs.
 - Aucun nom ou donnée identifiable de patient ne doit être saisi.
 - L'export PDF, les notifications, l'historique graphique multi-dates et la remise à zéro annuelle ne sont pas encore implémentés.
+
+
+Version 3 : logo officiel fourni par la référente et mode observateur A3/A4 en lecture seule, avec données fictives. Aucun accès aux données des étudiants dans le mode observateur.
